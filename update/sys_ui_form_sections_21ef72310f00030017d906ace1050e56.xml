@@ -15,20 +15,6 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-07-20 02:41:38</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-20 02:41:38</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>a1ef72310f00030017d906ace1050e59</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_141494_bfup_tr_bfup_tr" name="x_141494_bfup_tr_bfup_tr" sys_domain="global" view="Default view">21ef72310f00030017d906ace1050e56</sys_ui_form>
-            <sys_ui_section caption="支払関連受渡" display_value="支払関連受渡" name="x_141494_bfup_tr_bfup_tr" sys_domain="global" view="Default view">e1ef72310f00030017d906ace1050e55</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-20 02:41:38</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_141494_bfup_tr_bfup_tr</name>
             <roles/>

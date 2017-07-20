@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_documentation element="u_transdirectory" label="ファイル転送先ディレクトリ　パス" language="en" table="x_141494_bfup_tr_x_141494_bfup_tr">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_transdirectory</element>
+            <help/>
+            <hint/>
+            <label>ファイル転送先ディレクトリ　パス</label>
+            <language>en</language>
+            <name>x_141494_bfup_tr_x_141494_bfup_tr</name>
+            <plural>ファイル転送先ディレクトリ　パスs</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-20 05:07:21</sys_created_on>
+            <sys_id>8c41e7310f40030017d906ace1050eb7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>ファイル転送先ディレクトリ　パス</sys_name>
+            <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
+            <sys_update_name>sys_documentation_x_141494_bfup_tr_x_141494_bfup_tr_u_transdirectory_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-20 05:18:51</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

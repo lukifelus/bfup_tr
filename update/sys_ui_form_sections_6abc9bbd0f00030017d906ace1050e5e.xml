@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="6abc9bbd0f00030017d906ace1050e5e" sys_domain="global" table="x_141494_bfup_tr_x_141494_bfup_tr" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-20 04:47:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6abc9bbd0f00030017d906ace1050e60</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_141494_bfup_tr_x_141494_bfup_tr" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">6abc9bbd0f00030017d906ace1050e5e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">2a8c577d0f00030017d906ace1050ea8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-20 04:47:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-20 04:47:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>26bc9bbd0f00030017d906ace1050e61</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_141494_bfup_tr_x_141494_bfup_tr" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">6abc9bbd0f00030017d906ace1050e5e</sys_ui_form>
+            <sys_ui_section caption="ＤＢ設定" display_value="ＤＢ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">eebcd73d0f00030017d906ace1050ea0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-20 04:47:35</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-20 04:58:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e14fdbfd0f00030017d906ace1050ed7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_141494_bfup_tr_x_141494_bfup_tr" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">6abc9bbd0f00030017d906ace1050e5e</sys_ui_form>
+            <sys_ui_section caption="ファイル取込設定" display_value="ファイル取込設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">6d4fdbfd0f00030017d906ace1050ed4</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-20 04:58:43</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-20 05:26:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8795e3310f40030017d906ace1050ed3</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_141494_bfup_tr_x_141494_bfup_tr" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">6abc9bbd0f00030017d906ace1050e5e</sys_ui_form>
+            <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-20 05:33:19</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_141494_bfup_tr_x_141494_bfup_tr</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-20 04:47:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6abc9bbd0f00030017d906ace1050e5e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_141494_bfup_tr_x_141494_bfup_tr</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
+            <sys_update_name>sys_ui_form_sections_6abc9bbd0f00030017d906ace1050e5e</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-20 04:47:35</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

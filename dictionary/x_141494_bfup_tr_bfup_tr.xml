@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
-    <element label="bfup_tr" max_length="40" name="x_141494_bfup_tr_bfup_tr" type="collection">
+    <element label="支払関連受渡し" max_length="40" name="x_141494_bfup_tr_bfup_tr" type="collection">
         <element attributes="edge_encryption_enabled=true" label="備考" max_length="40" name="u_biko" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="支払依頼部門" max_length="40" name="u_busyoname" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="データ種類" max_length="40" name="u_datatype" type="string"/>

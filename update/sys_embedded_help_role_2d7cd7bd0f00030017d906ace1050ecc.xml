@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_141494_bfup_tr._user" name="x_141494_bfup_tr._user">1d7c9bb90f00030017d906ace1050ec5</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-20 04:46:25</sys_created_on>
+        <sys_id>2d7cd7bd0f00030017d906ace1050ecc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1d7c9bb90f00030017d906ace1050ec5</sys_name>
+        <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
+        <sys_update_name>sys_embedded_help_role_2d7cd7bd0f00030017d906ace1050ecc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-20 04:46:25</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
