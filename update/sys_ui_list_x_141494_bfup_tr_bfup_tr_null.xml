@@ -4,32 +4,47 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>u_entrydate</element>
-            <list_id display_value="x_141494_bfup_tr_bfup_tr" element="NULL" name="x_141494_bfup_tr_bfup_tr" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">344103350f00030017d906ace1050e52</list_id>
+            <list_id display_value="x_141494_bfup_tr_bfup_tr" element="NULL" name="x_141494_bfup_tr_bfup_tr" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c16509520f80030017d906ace1050e66</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-20 02:47:35</sys_created_on>
-            <sys_id>304103350f00030017d906ace1050e53</sys_id>
+            <sys_created_on>2017-07-21 07:03:21</sys_created_on>
+            <sys_id>496509520f80030017d906ace1050e66</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-20 02:47:35</sys_updated_on>
+            <sys_updated_on>2017-07-21 07:03:21</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
-            <element>u_entrydate1</element>
-            <list_id display_value="x_141494_bfup_tr_bfup_tr" element="NULL" name="x_141494_bfup_tr_bfup_tr" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">344103350f00030017d906ace1050e52</list_id>
+            <element>u_busyoname</element>
+            <list_id display_value="x_141494_bfup_tr_bfup_tr" element="NULL" name="x_141494_bfup_tr_bfup_tr" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c16509520f80030017d906ace1050e66</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
             <sum>false</sum>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-20 02:47:35</sys_created_on>
-            <sys_id>38410b350f00030017d906ace1050e19</sys_id>
+            <sys_created_on>2017-07-21 07:03:21</sys_created_on>
+            <sys_id>c96509520f80030017d906ace1050e66</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-20 02:47:35</sys_updated_on>
+            <sys_updated_on>2017-07-21 07:03:21</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>u_datatype</element>
+            <list_id display_value="x_141494_bfup_tr_bfup_tr" element="NULL" name="x_141494_bfup_tr_bfup_tr" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">c16509520f80030017d906ace1050e66</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-21 07:03:21</sys_created_on>
+            <sys_id>4d6509520f80030017d906ace1050e66</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-21 07:03:21</sys_updated_on>
         </sys_ui_list_element>
         <sys_ui_list action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
@@ -43,10 +58,10 @@
             <sum>false</sum>
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-20 02:47:35</sys_created_on>
+            <sys_created_on>2017-07-21 07:03:21</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>344103350f00030017d906ace1050e52</sys_id>
+            <sys_id>c16509520f80030017d906ace1050e66</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>x_141494_bfup_tr_bfup_tr</sys_name>
             <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
@@ -54,7 +69,7 @@
             <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
             <sys_update_name>sys_ui_list_x_141494_bfup_tr_bfup_tr_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-20 02:47:35</sys_updated_on>
+            <sys_updated_on>2017-07-21 07:03:21</sys_updated_on>
             <sys_user/>
             <view display_value="Default view" name="NULL">Default view</view>
             <view_name/>
