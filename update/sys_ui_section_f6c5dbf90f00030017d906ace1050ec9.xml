@@ -1,17 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
     <sys_ui_section caption="" section_id="f6c5dbf90f00030017d906ace1050ec9" sys_domain="global" table="x_141494_bfup_tr_bfup_tr_2" version="3" view="">
+        <sys_ui_annotation action="INSERT_OR_UPDATE">
+            <is_plain_text>false</is_plain_text>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-21 04:21:50</sys_created_on>
+            <sys_id>476028920f40030017d906ace1050ea6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-21 04:21:50</sys_updated_on>
+            <text>※転送ファイルの設定は以下のように入力すること　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　例）ファイル「CSHS060A_SEC35.CSV」(保険金給付金支払依頼リスト)を取り込みたい場合　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
+データ種類		：保険金給付金支払依頼リスト　　　　
+転送ファイル	帳票ID	：CSHS060A</text>
+            <type display_value="Text">863e446c0fd30000b12e6903cfe012ce</type>
+        </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_datatype</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-20 07:20:41</sys_created_on>
-            <sys_id>5dcfb7f90f40030017d906ace1050e50</sys_id>
+            <sys_created_on>2017-07-21 04:21:50</sys_created_on>
+            <sys_id>0b6028920f40030017d906ace1050ea6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-20 07:20:41</sys_updated_on>
+            <sys_updated_on>2017-07-21 04:21:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -19,41 +32,41 @@
             <element>u_transid</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-20 07:20:41</sys_created_on>
-            <sys_id>ddcfb7f90f40030017d906ace1050e50</sys_id>
+            <sys_created_on>2017-07-21 04:21:50</sys_created_on>
+            <sys_id>8b6028920f40030017d906ace1050ea6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-20 07:20:41</sys_updated_on>
+            <sys_updated_on>2017-07-21 04:21:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_info</element>
+            <element>476028920f40030017d906ace1050ea6</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-20 07:20:41</sys_created_on>
-            <sys_id>51cfb7f90f40030017d906ace1050e51</sys_id>
+            <sys_created_on>2017-07-21 04:21:50</sys_created_on>
+            <sys_id>0f6028920f40030017d906ace1050ea6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-20 07:20:41</sys_updated_on>
+            <sys_updated_on>2017-07-21 04:21:50</sys_updated_on>
             <sys_user/>
-            <type/>
+            <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>u_journal_3</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-20 07:20:41</sys_created_on>
-            <sys_id>d1cfb7f90f40030017d906ace1050e51</sys_id>
+            <sys_created_on>2017-07-21 04:21:50</sys_created_on>
+            <sys_id>8f6028920f40030017d906ace1050ea6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-20 07:20:41</sys_updated_on>
+            <sys_updated_on>2017-07-21 04:21:50</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

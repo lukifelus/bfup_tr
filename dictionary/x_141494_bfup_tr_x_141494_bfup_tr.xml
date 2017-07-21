@@ -3,7 +3,14 @@
     <element label="システム設定" max_length="40" name="x_141494_bfup_tr_x_141494_bfup_tr" type="collection">
         <element label="エージェント実行　ＯＮ／ＯＦＦ" max_length="40" name="u_agimportrun" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="アーカイブＤＢ　パス" max_length="40" name="u_archive_dbpath" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="アーカイブ期間" max_length="40" name="u_arc_condition" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="アーカイブ期間" max_length="2" name="u_arc_condition" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="年" label="単位" max_length="40" name="u_arc_ymd" type="string">
+            <choice>
+                <element label="年" sequence="0" value="年"/>
+                <element label="ヶ月" sequence="1" value="ヶ月"/>
+                <element label="日" sequence="2" value="日"/>
+            </choice>
+        </element>
         <element label="アーカイブ単位" max_length="40" name="u_arc_yymmdd" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="ファイル退避ディレクトリ　パス" max_length="40" name="u_bkdirectory" type="string"/>
         <element label="更新履歴" max_length="4000" name="u_journal_11" type="journal"/>
