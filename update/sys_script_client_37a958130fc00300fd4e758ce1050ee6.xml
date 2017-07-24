@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>sys_created_on</field>
+        <global>true</global>
+        <messages/>
+        <name>onSubmit for 支払関連受渡し</name>
+        <order/>
+        <script><![CDATA[function onSubmit() {
+   //Type appropriate comment here, and begin script below
+	// 時刻の取得とFormat成型
+	var DD = new Date();
+	var jikan = RetDate(DD);
+	// アクセス者情報の取得
+	var user = g_user.userID;
+	// 初期状態では、起票日・起票者に書き込む
+	var setdate = 'u_ticket_date';
+	var setname = 'u_voter';
+	
+	// 起票日に書込みがあれば、編集日･編集者に書き込み先を変更
+	if(g_form.getValue('u_ticket_date') != ""){
+		setdate = 'u_edit_date';
+		setname = 'u_editor';
+	}
+	
+	// ReadOnlyを書込み可に変更して書き込む
+	g_form.setDisabled(setdate, true);
+	g_form.setDisabled(setname, true);
+	g_form.setValue(setdate, jikan);
+	g_form.setValue(setname, user);
+	
+	// 時刻のFormat成型
+	function RetDate(DD){
+		var retdate = 
+			DD.getFullYear() + "-" + (DD.getMonth() + 1) + "-" + DD.getDate() + " " +
+			DD.getHours() + ":" + DD.getMinutes() + ":" + DD.getSeconds();
+		return retdate;
+	}
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-07-24 06:35:19</sys_created_on>
+        <sys_customer_update>false</sys_customer_update>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>37a958130fc00300fd4e758ce1050ee6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>onSubmit for 支払関連受渡し</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
+        <sys_policy/>
+        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
+        <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
+        <sys_update_name>sys_script_client_37a958130fc00300fd4e758ce1050ee6</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-24 06:36:00</sys_updated_on>
+        <table>x_141494_bfup_tr_bfup_tr</table>
+        <type>onSubmit</type>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_script_client>
+</record_update>

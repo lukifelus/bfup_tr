@@ -4,11 +4,11 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-21 04:21:50</sys_created_on>
-            <sys_id>476028920f40030017d906ace1050ea6</sys_id>
+            <sys_created_on>2017-07-24 23:34:42</sys_created_on>
+            <sys_id>4c1548630f480300fd4e758ce1050efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-21 04:21:50</sys_updated_on>
+            <sys_updated_on>2017-07-24 23:34:42</sys_updated_on>
             <text>※転送ファイルの設定は以下のように入力すること　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　例）ファイル「CSHS060A_SEC35.CSV」(保険金給付金支払依頼リスト)を取り込みたい場合　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 データ種類		：保険金給付金支払依頼リスト　　　　
 転送ファイル	帳票ID	：CSHS060A</text>
@@ -18,13 +18,13 @@
             <element>u_datatype</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-21 04:21:50</sys_created_on>
-            <sys_id>0b6028920f40030017d906ace1050ea6</sys_id>
+            <sys_created_on>2017-07-24 23:34:42</sys_created_on>
+            <sys_id>001548630f480300fd4e758ce1050efc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-21 04:21:50</sys_updated_on>
+            <sys_updated_on>2017-07-24 23:34:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,41 +32,111 @@
             <element>u_transid</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-21 04:21:50</sys_created_on>
-            <sys_id>8b6028920f40030017d906ace1050ea6</sys_id>
+            <sys_created_on>2017-07-24 23:34:42</sys_created_on>
+            <sys_id>801548630f480300fd4e758ce1050efc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-21 04:21:50</sys_updated_on>
+            <sys_updated_on>2017-07-24 23:34:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>476028920f40030017d906ace1050ea6</element>
+            <element>4c1548630f480300fd4e758ce1050efb</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-21 04:21:50</sys_created_on>
-            <sys_id>0f6028920f40030017d906ace1050ea6</sys_id>
+            <sys_created_on>2017-07-24 23:34:42</sys_created_on>
+            <sys_id>041548630f480300fd4e758ce1050efc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-21 04:21:50</sys_updated_on>
+            <sys_updated_on>2017-07-24 23:34:42</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>u_journal_3</element>
+            <element>.begin_split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-21 04:21:50</sys_created_on>
-            <sys_id>8f6028920f40030017d906ace1050ea6</sys_id>
+            <sys_created_on>2017-07-24 23:34:42</sys_created_on>
+            <sys_id>841548630f480300fd4e758ce1050efc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-21 04:21:50</sys_updated_on>
+            <sys_updated_on>2017-07-24 23:34:42</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ticket_date</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 23:34:42</sys_created_on>
+            <sys_id>081548630f480300fd4e758ce1050efc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 23:34:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_edit_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 23:34:42</sys_created_on>
+            <sys_id>881548630f480300fd4e758ce1050efc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 23:34:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 23:34:42</sys_created_on>
+            <sys_id>0c1548630f480300fd4e758ce1050efc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 23:34:42</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_voter</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 23:34:42</sys_created_on>
+            <sys_id>8c1548630f480300fd4e758ce1050efc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 23:34:42</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_editor</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 23:34:42</sys_created_on>
+            <sys_id>001548630f480300fd4e758ce1050efd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 23:34:42</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -78,6 +148,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-07-20 04:17:17</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>f6c5dbf90f00030017d906ace1050ec9</sys_id>
@@ -86,6 +157,7 @@
             <sys_overrides/>
             <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
             <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
             <sys_update_name>sys_ui_section_f6c5dbf90f00030017d906ace1050ec9</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>

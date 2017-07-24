@@ -4,10 +4,20 @@
         <element attributes="edge_encryption_enabled=true" label="備考" max_length="40" name="u_biko" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="支払依頼部門" max_length="40" name="u_busyoname" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="データ種類" max_length="40" name="u_datatype" type="string"/>
+        <element label="編集者" max_length="32" name="u_editor" read_only="true" reference="sys_user" type="reference"/>
+        <element label="編集日" max_length="40" name="u_edit_date" read_only="true" type="glide_date_time"/>
         <element label="データ作成日" max_length="40" name="u_entrydate" type="glide_date"/>
         <element label="New Date" max_length="40" name="u_entrydate1" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true" label="ファイル" max_length="40" name="u_entryfile" type="string"/>
         <element label="作成更新履歴" max_length="4000" name="u_journal_10" type="journal"/>
         <element attributes="edge_encryption_enabled=true" label="主管部門使用欄" max_length="40" name="u_string_9" type="string"/>
+        <element label="起票日" max_length="40" name="u_ticket_date" read_only="true" type="glide_date_time"/>
+        <element label="起票者" max_length="32" name="u_voter" read_only="true" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="u_editor"/>
+        </index>
+        <index name="index2">
+            <element name="u_voter"/>
+        </index>
     </element>
 </database>

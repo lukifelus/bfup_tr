@@ -4,11 +4,11 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-21 05:23:18</sys_created_on>
-            <sys_id>e37ea0d60f40030017d906ace1050e29</sys_id>
-            <sys_mod_count>1</sys_mod_count>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>a385341f0fc00300fd4e758ce1050e82</sys_id>
+            <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-21 05:23:18</sys_updated_on>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
             <text>※アーカイブＤＢは自身のパスを入力すること(アーカイブ処理がスキップされます)</text>
             <type display_value="Info Box Blue">753f88a80f930000b12e6903cfe01206</type>
         </sys_ui_annotation>
@@ -16,27 +16,27 @@
             <element>u_archive_dbpath</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-21 05:23:18</sys_created_on>
-            <sys_id>a37eac1a0f40030017d906ace1050e37</sys_id>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>6785341f0fc00300fd4e758ce1050e82</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-21 05:23:18</sys_updated_on>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>e37ea0d60f40030017d906ace1050e29</element>
+            <element>a385341f0fc00300fd4e758ce1050e82</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-21 05:23:18</sys_created_on>
-            <sys_id>277eac1a0f40030017d906ace1050e37</sys_id>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>e785341f0fc00300fd4e758ce1050e82</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-21 05:23:18</sys_updated_on>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -44,13 +44,13 @@
             <element>.begin_split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-21 05:23:18</sys_created_on>
-            <sys_id>a77eac1a0f40030017d906ace1050e37</sys_id>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>6b85341f0fc00300fd4e758ce1050e82</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-21 05:23:18</sys_updated_on>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -58,13 +58,13 @@
             <element>u_arc_condition</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-21 05:23:18</sys_created_on>
-            <sys_id>2b7eac1a0f40030017d906ace1050e37</sys_id>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>eb85341f0fc00300fd4e758ce1050e82</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-21 05:23:18</sys_updated_on>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -72,13 +72,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-21 05:23:18</sys_created_on>
-            <sys_id>ab7eac1a0f40030017d906ace1050e37</sys_id>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>6f85341f0fc00300fd4e758ce1050e82</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-21 05:23:18</sys_updated_on>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -86,13 +86,13 @@
             <element>u_arc_ymd</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-21 05:23:18</sys_created_on>
-            <sys_id>2f7eac1a0f40030017d906ace1050e37</sys_id>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>ef85341f0fc00300fd4e758ce1050e82</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-21 05:23:18</sys_updated_on>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -100,13 +100,13 @@
             <element>.end_split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-21 05:23:18</sys_created_on>
-            <sys_id>af7eac1a0f40030017d906ace1050e37</sys_id>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>6385341f0fc00300fd4e758ce1050e83</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-21 05:23:18</sys_updated_on>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
@@ -114,13 +114,97 @@
             <element>u_journal_11</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-21 05:23:18</sys_created_on>
-            <sys_id>237eac1a0f40030017d906ace1050e38</sys_id>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>e385341f0fc00300fd4e758ce1050e83</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-21 05:23:18</sys_updated_on>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>6785341f0fc00300fd4e758ce1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_ticket_date</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>e785341f0fc00300fd4e758ce1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_edit_date</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>6b85341f0fc00300fd4e758ce1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>11</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>eb85341f0fc00300fd4e758ce1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_voter</element>
+            <position>12</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>6f85341f0fc00300fd4e758ce1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_editor</element>
+            <position>13</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-07-24 08:28:05</sys_created_on>
+            <sys_id>ef85341f0fc00300fd4e758ce1050e83</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="アーカイブ設定" display_value="アーカイブ設定" name="x_141494_bfup_tr_x_141494_bfup_tr" sys_domain="global" view="Default view">c795e3310f40030017d906ace1050ed0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-07-24 08:28:05</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -132,6 +216,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-07-20 05:26:24</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>c795e3310f40030017d906ace1050ed0</sys_id>
@@ -140,6 +225,7 @@
             <sys_overrides/>
             <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
             <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
             <sys_update_name>sys_ui_section_c795e3310f40030017d906ace1050ed0</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
