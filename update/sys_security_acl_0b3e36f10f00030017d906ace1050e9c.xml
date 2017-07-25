@@ -12,13 +12,11 @@
         <sys_class_name>sys_security_acl</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-20 02:34:21</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
         <sys_id>0b3e36f10f00030017d906ace1050e9c</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_141494_bfup_tr_bfup_tr</sys_name>
         <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
         <sys_update_name>sys_security_acl_0b3e36f10f00030017d906ace1050e9c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>

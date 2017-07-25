@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="sys_import_set_row" label="Imp Tmpl X 141494 Bfup Tr X 141494 Bfup Tr2" max_length="40" name="u_imp_tmpl_x_141494_bfup_tr_x_141494_bfup_tr2" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="データ種類" max_length="40" name="u_データ種類" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="参照権限単位" max_length="40" name="u_参照権限単位" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="帳票ＩＤ" max_length="40" name="u_帳票ｉｄ" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="所属コード２桁" max_length="40" name="u_所属コード２桁" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="権限単位" max_length="40" name="u_権限単位" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="追加参照部署（課単位）" max_length="40" name="u_追加参照部署_課単位_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="追加参照部署（部単位）" max_length="40" name="u_追加参照部署_部単位_" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="部名" max_length="40" name="u_部名" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="部課名" max_length="40" name="u_部課名" type="string"/>
+    </element>
+</database>

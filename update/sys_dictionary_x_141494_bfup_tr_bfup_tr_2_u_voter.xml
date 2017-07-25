@@ -10,7 +10,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>起票者</column_label>
+        <column_label>作成者</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -47,17 +47,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-24 06:51:43</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>f106c4a7db480300fbeaf34ebf9619ce</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>起票者</sys_name>
+        <sys_id>798f14ab0f00030017d906ace1050ed6</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>作成者</sys_name>
         <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
         <sys_update_name>sys_dictionary_x_141494_bfup_tr_bfup_tr_2_u_voter</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-07-24 23:39:01</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-25 04:04:55</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

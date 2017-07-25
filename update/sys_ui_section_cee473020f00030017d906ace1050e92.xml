@@ -4,58 +4,58 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>49e408630f480300fd4e758ce1050eab</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>30c24de70f40030017d906ace1050efa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <text>ファイル</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>41e408630f480300fd4e758ce1050eac</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>34c24de70f40030017d906ace1050efa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <text>主管部門</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>45e408630f480300fd4e758ce1050eac</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>38c24de70f40030017d906ace1050efa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <text>追加参照部門</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>49e408630f480300fd4e758ce1050eac</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>3cc24de70f40030017d906ace1050efa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <text>更新履歴</text>
             <type display_value="Line Separator">a93fc8e00f530000b12e6903cfe012e6</type>
         </sys_ui_annotation>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>49e408630f480300fd4e758ce1050eab</element>
+            <element>30c24de70f40030017d906ace1050efa</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>0de408630f480300fd4e758ce1050eac</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>fcc24de70f40030017d906ace1050efa</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -63,13 +63,13 @@
             <element>u_deptidshort</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>81e408630f480300fd4e758ce1050ead</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>70c24de70f40030017d906ace1050efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -77,13 +77,13 @@
             <element>.begin_split</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>05e408630f480300fd4e758ce1050ead</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>f0c24de70f40030017d906ace1050efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -91,13 +91,13 @@
             <element>u_transid</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>85e408630f480300fd4e758ce1050ead</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>74c24de70f40030017d906ace1050efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -105,13 +105,13 @@
             <element>.split</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>09e408630f480300fd4e758ce1050ead</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>f4c24de70f40030017d906ace1050efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -119,13 +119,13 @@
             <element>u_datatype</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>89e408630f480300fd4e758ce1050ead</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>78c24de70f40030017d906ace1050efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -133,27 +133,27 @@
             <element>.end_split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>0de408630f480300fd4e758ce1050ead</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>f8c24de70f40030017d906ace1050efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>41e408630f480300fd4e758ce1050eac</element>
+            <element>34c24de70f40030017d906ace1050efa</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>8de408630f480300fd4e758ce1050ead</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>7cc24de70f40030017d906ace1050efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -161,13 +161,13 @@
             <element>u_authorityunit1</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>01e408630f480300fd4e758ce1050eae</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>fcc24de70f40030017d906ace1050efb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -175,13 +175,13 @@
             <element>.begin_split</element>
             <position>9</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>81e408630f480300fd4e758ce1050eae</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>70c24de70f40030017d906ace1050efc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -189,13 +189,13 @@
             <element>u_busyogroupname</element>
             <position>10</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>05e408630f480300fd4e758ce1050eae</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>f0c24de70f40030017d906ace1050efc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -203,13 +203,13 @@
             <element>.split</element>
             <position>11</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>85e408630f480300fd4e758ce1050eae</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>74c24de70f40030017d906ace1050efc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -217,13 +217,13 @@
             <element>u_busyoname</element>
             <position>12</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>09e408630f480300fd4e758ce1050eae</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>f4c24de70f40030017d906ace1050efc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -231,27 +231,27 @@
             <element>.end_split</element>
             <position>13</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>89e408630f480300fd4e758ce1050eae</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>78c24de70f40030017d906ace1050efc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>45e408630f480300fd4e758ce1050eac</element>
+            <element>38c24de70f40030017d906ace1050efa</element>
             <position>14</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>0de408630f480300fd4e758ce1050eae</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>f8c24de70f40030017d906ace1050efc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -259,13 +259,13 @@
             <element>.begin_split</element>
             <position>15</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>8de408630f480300fd4e758ce1050eae</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>7cc24de70f40030017d906ace1050efc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -273,13 +273,13 @@
             <element>u_addbusyogroupname</element>
             <position>16</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>01e408630f480300fd4e758ce1050eaf</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>fcc24de70f40030017d906ace1050efc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -287,13 +287,13 @@
             <element>u_addbukagroupname</element>
             <position>17</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>81e408630f480300fd4e758ce1050eaf</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>70c24de70f40030017d906ace1050efd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -301,13 +301,13 @@
             <element>.split</element>
             <position>18</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>05e408630f480300fd4e758ce1050eaf</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>f0c24de70f40030017d906ace1050efd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -315,13 +315,13 @@
             <element>u_addbusyoname1</element>
             <position>19</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>85e408630f480300fd4e758ce1050eaf</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>74c24de70f40030017d906ace1050efd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -329,13 +329,13 @@
             <element>u_addbukaname1</element>
             <position>20</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>09e408630f480300fd4e758ce1050eaf</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>f4c24de70f40030017d906ace1050efd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -343,27 +343,27 @@
             <element>.end_split</element>
             <position>21</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>89e408630f480300fd4e758ce1050eaf</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>78c24de70f40030017d906ace1050efd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>.end_split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>49e408630f480300fd4e758ce1050eac</element>
+            <element>3cc24de70f40030017d906ace1050efa</element>
             <position>22</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>0de408630f480300fd4e758ce1050eaf</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>f8c24de70f40030017d906ace1050efd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -371,13 +371,13 @@
             <element>.begin_split</element>
             <position>23</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>8de408630f480300fd4e758ce1050eaf</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>7cc24de70f40030017d906ace1050efd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -385,13 +385,13 @@
             <element>u_ticket_date</element>
             <position>24</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>01e408630f480300fd4e758ce1050eb0</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>fcc24de70f40030017d906ace1050efd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -399,13 +399,13 @@
             <element>u_edit_date</element>
             <position>25</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>81e408630f480300fd4e758ce1050eb0</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>70c24de70f40030017d906ace1050efe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -413,13 +413,13 @@
             <element>.split</element>
             <position>26</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>05e408630f480300fd4e758ce1050eb0</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>f0c24de70f40030017d906ace1050efe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -427,13 +427,13 @@
             <element>u_voter</element>
             <position>27</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>85e408630f480300fd4e758ce1050eb0</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>74c24de70f40030017d906ace1050efe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -441,13 +441,13 @@
             <element>u_editor</element>
             <position>28</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-24 23:33:57</sys_created_on>
-            <sys_id>09e408630f480300fd4e758ce1050eb0</sys_id>
+            <sys_created_on>2017-07-25 04:04:15</sys_created_on>
+            <sys_id>f4c24de70f40030017d906ace1050efe</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">cee473020f00030017d906ace1050e92</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-24 23:33:57</sys_updated_on>
+            <sys_updated_on>2017-07-25 04:04:15</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -459,7 +459,6 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-07-21 01:11:42</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>cee473020f00030017d906ace1050e92</sys_id>
@@ -468,7 +467,6 @@
             <sys_overrides/>
             <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
             <sys_update_name>sys_ui_section_cee473020f00030017d906ace1050e92</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>

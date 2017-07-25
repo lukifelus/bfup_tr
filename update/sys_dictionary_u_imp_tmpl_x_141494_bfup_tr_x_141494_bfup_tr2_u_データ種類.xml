@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_authorityunit" table="x_141494_bfup_tr_x_141494_bfup_tr2">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_データ種類" table="u_imp_tmpl_x_141494_bfup_tr_x_141494_bfup_tr2">
         <active>true</active>
         <array>false</array>
         <array_denormalized>false</array_denormalized>
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>1</choice>
+        <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>権限単位</column_label>
+        <column_label>データ種類</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -23,13 +23,13 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_authorityunit</element>
+        <element>u_データ種類</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
-        <name>x_141494_bfup_tr_x_141494_bfup_tr2</name>
+        <name>u_imp_tmpl_x_141494_bfup_tr_x_141494_bfup_tr2</name>
         <next_element/>
         <primary>false</primary>
         <read_only>false</read_only>
@@ -46,18 +46,16 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
-        <sys_created_on>2017-07-20 06:09:50</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>3506c4a7db480300fbeaf34ebf9619a3</sys_id>
+        <sys_created_on>2017-07-25 04:47:36</sys_created_on>
+        <sys_id>33ac492f0f40030017d906ace1050eca</sys_id>
         <sys_mod_count>0</sys_mod_count>
-        <sys_name>権限単位</sys_name>
+        <sys_name>データ種類</sys_name>
         <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
-        <sys_update_name>sys_dictionary_x_141494_bfup_tr_x_141494_bfup_tr2_u_authorityunit</sys_update_name>
-        <sys_updated_by>system</sys_updated_by>
-        <sys_updated_on>2017-07-24 23:39:02</sys_updated_on>
+        <sys_update_name>sys_dictionary_u_imp_tmpl_x_141494_bfup_tr_x_141494_bfup_tr2_u_データ種類</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-07-25 04:47:36</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
