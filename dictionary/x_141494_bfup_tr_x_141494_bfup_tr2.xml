@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <database>
     <element label="参照権限設定" max_length="40" name="x_141494_bfup_tr_x_141494_bfup_tr2" type="collection">
-        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="追加（課単位）" max_length="1024" name="u_addbukagroupname" type="glide_list"/>
-        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="課名" max_length="1024" name="u_addbukaname" type="glide_list"/>
-        <element attributes="edge_encryption_enabled=true" label="追加参照部署（課単位）" max_length="40" name="u_addbukaname1" type="string"/>
-        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="追加（部単位）" max_length="1024" name="u_addbusyogroupname" type="glide_list"/>
-        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="部" max_length="1024" name="u_addbusyoname" type="glide_list"/>
-        <element attributes="edge_encryption_enabled=true" label="追加参照部署（部単位）" max_length="40" name="u_addbusyoname1" type="string"/>
-        <element attributes="edge_encryption_enabled=true" choice="3" default="部" label="参照権限単位" max_length="40" name="u_authorityunit1" type="string">
+        <element attributes="edge_encryption_enabled=true" label="追加参照(課)" max_length="40" name="u_addbukagroupname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="追加参照(課)名" max_length="40" name="u_addbukaname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="追加参照(部)" max_length="40" name="u_addbusyogroupname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="追加参照(部)名" max_length="40" name="u_addbusyoname" type="string"/>
+        <element label="追加参照(部)" max_length="32" name="u_addgroupbusyocode" reference="content_block_lists" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="部" label="参照権限単位" mandatory="true" max_length="40" name="u_authorityunit1" type="string">
             <choice>
                 <element label="部" sequence="0" value="部"/>
                 <element label="課" sequence="1" value="課"/>
             </choice>
         </element>
-        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="部課" max_length="1024" name="u_busyogroupname" type="glide_list"/>
-        <element attributes="edge_encryption_enabled=true" label="部課名" max_length="40" name="u_busyoname" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="データ種類" max_length="40" name="u_datatype" type="string"/>
-        <element attributes="edge_encryption_enabled=true" label="所属コード２桁" max_length="2" name="u_deptidshort" type="string"/>
-        <element label="更新者" max_length="32" name="u_editor" read_only="true" reference="sys_user" type="reference"/>
-        <element label="更新日" max_length="40" name="u_edit_date" read_only="true" type="glide_date_time"/>
-        <element label="更新履歴" max_length="4000" name="u_journal_10" type="journal"/>
-        <element label="更新履歴" max_length="4000" name="u_journal_9" type="journal"/>
-        <element attributes="edge_encryption_enabled=true" label="部名" max_length="40" name="u_s_addbusyoname" type="string"/>
-        <element label="作成日" max_length="40" name="u_ticket_date" read_only="true" type="glide_date_time"/>
-        <element attributes="edge_encryption_enabled=true" label="帳票ＩＤ" max_length="40" name="u_transid" type="string"/>
-        <element attributes="no_sort=true,slushbucket_ref_no_expand=true" label="帳票ＩＤ・データ種類" max_length="1024" name="u_transid_datatype" type="glide_list"/>
-        <element label="作成者" max_length="32" name="u_voter" read_only="true" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" label="主管部課" mandatory="true" max_length="40" name="u_busyogroupname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="主管部課名" max_length="40" name="u_busyoname" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="作成者" max_length="40" name="u_created_by" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="作成者所属" max_length="40" name="u_created_by_dev" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="データ種類" mandatory="true" max_length="40" name="u_datatype" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="所属コード２桁" mandatory="true" max_length="2" name="u_deptidshort" type="string"/>
+        <element label="部選択" max_length="32" name="u_reference_1" reference="x_141494_bfup_tr_dept" type="reference"/>
+        <element dependent="u_reference_1" dependent_on_field="u_reference_1" label="部名選択結果" max_length="32" name="u_reference_2" reference="x_141494_bfup_tr_dept" type="reference" use_dependent_field="true"/>
+        <element attributes="edge_encryption_enabled=true" label="帳票ＩＤ" mandatory="true" max_length="8" name="u_transid" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="更新者" max_length="40" name="u_updated_by" read_only="true" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="更新者所属" max_length="40" name="u_updated_by_dev" read_only="true" type="string"/>
         <index name="index">
-            <element name="u_editor"/>
+            <element name="u_reference_1"/>
         </index>
         <index name="index2">
-            <element name="u_voter"/>
+            <element name="u_reference_2"/>
+        </index>
+        <index name="index3">
+            <element name="u_addgroupbusyocode"/>
         </index>
     </element>
 </database>

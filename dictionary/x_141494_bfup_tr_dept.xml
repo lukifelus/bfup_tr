@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element label="(所属マスター)" max_length="40" name="x_141494_bfup_tr_dept" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="部課コード" max_length="40" name="u_bukacode" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="部課名" max_length="40" name="u_bukaname" type="string"/>
+    </element>
+</database>

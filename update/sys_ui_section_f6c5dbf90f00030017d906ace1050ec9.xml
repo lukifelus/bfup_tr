@@ -4,13 +4,15 @@
         <sys_ui_annotation action="INSERT_OR_UPDATE">
             <is_plain_text>false</is_plain_text>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-25 04:05:22</sys_created_on>
-            <sys_id>0103012b0f40030017d906ace1050e1a</sys_id>
+            <sys_created_on>2017-07-27 07:36:21</sys_created_on>
+            <sys_id>83760418db5c4300fbeaf34ebf9619f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-25 04:05:22</sys_updated_on>
-            <text>※転送ファイルの設定は以下のように入力すること　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　例）ファイル「CSHS060A_SEC35.CSV」(保険金給付金支払依頼リスト)を取り込みたい場合　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
-データ種類		：保険金給付金支払依頼リスト　　　　
+            <sys_updated_on>2017-07-27 07:36:21</sys_updated_on>
+            <text>※転送ファイルの設定は以下のように入力すること&lt;br/&gt;&#13;
+例）ファイル&lt;br/&gt;&#13;
+「CSHS060A_SEC35.CSV」(保険金給付金支払依頼リスト)を取り込みたい場合&lt;br/&gt;&#13;
+データ種類		：保険金給付金支払依頼リスト&lt;br/&gt;&#13;
 転送ファイル	帳票ID	：CSHS060A</text>
             <type display_value="Text">863e446c0fd30000b12e6903cfe012ce</type>
         </sys_ui_annotation>
@@ -18,13 +20,13 @@
             <element>u_datatype</element>
             <position>0</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-25 04:05:22</sys_created_on>
-            <sys_id>c103012b0f40030017d906ace1050e1a</sys_id>
+            <sys_created_on>2017-07-27 07:36:21</sys_created_on>
+            <sys_id>47760418db5c4300fbeaf34ebf9619f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-25 04:05:22</sys_updated_on>
+            <sys_updated_on>2017-07-27 07:36:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -32,27 +34,27 @@
             <element>u_transid</element>
             <position>1</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-25 04:05:22</sys_created_on>
-            <sys_id>4503012b0f40030017d906ace1050e1a</sys_id>
+            <sys_created_on>2017-07-27 07:36:21</sys_created_on>
+            <sys_id>c7760418db5c4300fbeaf34ebf9619f2</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-25 04:05:22</sys_updated_on>
+            <sys_updated_on>2017-07-27 07:36:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>0103012b0f40030017d906ace1050e1a</element>
+            <element>83760418db5c4300fbeaf34ebf9619f2</element>
             <position>2</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-25 04:05:22</sys_created_on>
-            <sys_id>c503012b0f40030017d906ace1050e1a</sys_id>
+            <sys_created_on>2017-07-27 07:36:21</sys_created_on>
+            <sys_id>c77648d8db5c4300fbeaf34ebf9619e7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-25 04:05:22</sys_updated_on>
+            <sys_updated_on>2017-07-27 07:36:21</sys_updated_on>
             <sys_user/>
             <type>annotation</type>
         </sys_ui_element>
@@ -60,13 +62,13 @@
             <element>.begin_split</element>
             <position>3</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-25 04:05:22</sys_created_on>
-            <sys_id>4903012b0f40030017d906ace1050e1a</sys_id>
+            <sys_created_on>2017-07-27 07:36:21</sys_created_on>
+            <sys_id>4b7648d8db5c4300fbeaf34ebf9619e7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-25 04:05:22</sys_updated_on>
+            <sys_updated_on>2017-07-27 07:36:21</sys_updated_on>
             <sys_user/>
             <type>.begin_split</type>
         </sys_ui_element>
@@ -74,13 +76,13 @@
             <element>u_ticket_date</element>
             <position>4</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-25 04:05:22</sys_created_on>
-            <sys_id>c903012b0f40030017d906ace1050e1a</sys_id>
+            <sys_created_on>2017-07-27 07:36:21</sys_created_on>
+            <sys_id>cb7648d8db5c4300fbeaf34ebf9619e7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-25 04:05:22</sys_updated_on>
+            <sys_updated_on>2017-07-27 07:36:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -88,13 +90,13 @@
             <element>u_edit_date</element>
             <position>5</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-25 04:05:22</sys_created_on>
-            <sys_id>4d03012b0f40030017d906ace1050e1a</sys_id>
+            <sys_created_on>2017-07-27 07:36:21</sys_created_on>
+            <sys_id>4f7648d8db5c4300fbeaf34ebf9619e7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-25 04:05:22</sys_updated_on>
+            <sys_updated_on>2017-07-27 07:36:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -102,13 +104,13 @@
             <element>.split</element>
             <position>6</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-25 04:05:22</sys_created_on>
-            <sys_id>cd03012b0f40030017d906ace1050e1a</sys_id>
+            <sys_created_on>2017-07-27 07:36:21</sys_created_on>
+            <sys_id>cf7648d8db5c4300fbeaf34ebf9619e7</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-25 04:05:22</sys_updated_on>
+            <sys_updated_on>2017-07-27 07:36:21</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
@@ -116,13 +118,13 @@
             <element>u_voter</element>
             <position>7</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-25 04:05:22</sys_created_on>
-            <sys_id>4103012b0f40030017d906ace1050e1b</sys_id>
+            <sys_created_on>2017-07-27 07:36:21</sys_created_on>
+            <sys_id>437648d8db5c4300fbeaf34ebf9619e8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-25 04:05:22</sys_updated_on>
+            <sys_updated_on>2017-07-27 07:36:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -130,13 +132,13 @@
             <element>u_editor</element>
             <position>8</position>
             <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-07-25 04:05:22</sys_created_on>
-            <sys_id>c103012b0f40030017d906ace1050e1b</sys_id>
+            <sys_created_on>2017-07-27 07:36:21</sys_created_on>
+            <sys_id>c37648d8db5c4300fbeaf34ebf9619e8</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_141494_bfup_tr_bfup_tr_2" sys_domain="global" view="Default view">f6c5dbf90f00030017d906ace1050ec9</sys_ui_section>
             <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-07-25 04:05:22</sys_updated_on>
+            <sys_updated_on>2017-07-27 07:36:21</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
@@ -148,6 +150,7 @@
             <sys_class_name>sys_ui_section</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-07-20 04:17:17</sys_created_on>
+            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>f6c5dbf90f00030017d906ace1050ec9</sys_id>
@@ -156,6 +159,7 @@
             <sys_overrides/>
             <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
             <sys_policy/>
+            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
             <sys_update_name>sys_ui_section_f6c5dbf90f00030017d906ace1050ec9</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
