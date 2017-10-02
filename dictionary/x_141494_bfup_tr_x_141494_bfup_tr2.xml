@@ -24,13 +24,13 @@
         <element attributes="edge_encryption_enabled=true" label="更新者" max_length="40" name="u_updated_by" read_only="true" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="更新者所属" max_length="40" name="u_updated_by_dev" read_only="true" type="string"/>
         <index name="index">
-            <element name="u_reference_1"/>
-        </index>
-        <index name="index2">
             <element name="u_reference_2"/>
         </index>
-        <index name="index3">
+        <index name="index2">
             <element name="u_addgroupbusyocode"/>
+        </index>
+        <index name="index3">
+            <element name="u_reference_1"/>
         </index>
     </element>
 </database>

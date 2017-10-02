@@ -15,41 +15,12 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2017-07-21 01:11:43</sys_updated_on>
         </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>1</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-01 01:12:10</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>408e9c31db580300fbeaf34ebf9619ff</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_141494_bfup_tr_x_141494_bfup_tr2" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">902ee3b10f40030017d906ace1050ee4</sys_ui_form>
-            <sys_ui_section display_value="">7299c9ffdb404300fbeaf34ebf961920</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-01 01:12:10</sys_updated_on>
-        </sys_ui_form_section>
-        <sys_ui_form_section action="INSERT_OR_UPDATE">
-            <position>2</position>
-            <sys_created_by>admin</sys_created_by>
-            <sys_created_on>2017-08-01 01:12:10</sys_created_on>
-            <sys_domain>global</sys_domain>
-            <sys_domain_path>/</sys_domain_path>
-            <sys_id>888edc31db580300fbeaf34ebf961900</sys_id>
-            <sys_mod_count>0</sys_mod_count>
-            <sys_overrides/>
-            <sys_ui_form display_value="x_141494_bfup_tr_x_141494_bfup_tr2" name="x_141494_bfup_tr_x_141494_bfup_tr2" sys_domain="global" view="Default view">902ee3b10f40030017d906ace1050ee4</sys_ui_form>
-            <sys_ui_section display_value="">c59a8133db804300fbeaf34ebf9619e0</sys_ui_section>
-            <sys_updated_by>admin</sys_updated_by>
-            <sys_updated_on>2017-08-01 01:12:10</sys_updated_on>
-        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_141494_bfup_tr_x_141494_bfup_tr2</name>
             <roles/>
             <sys_class_name>sys_ui_form</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-07-20 06:03:37</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>902ee3b10f40030017d906ace1050ee4</sys_id>
@@ -58,7 +29,6 @@
             <sys_overrides/>
             <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
             <sys_update_name>sys_ui_form_sections_902ee3b10f40030017d906ace1050ee4</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>

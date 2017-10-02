@@ -47,17 +47,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-07-25 23:16:54</sys_created_on>
-        <sys_customer_update>false</sys_customer_update>
-        <sys_id>114e9031db580300fbeaf34ebf9619d6</sys_id>
+        <sys_id>309f58b50f10030017d906ace1050e05</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>追加参照(部)名</sys_name>
         <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
         <sys_policy/>
-        <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
         <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
         <sys_update_name>sys_dictionary_x_141494_bfup_tr_x_141494_bfup_tr2_u_addbusyoname</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2017-08-01 01:12:03</sys_updated_on>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2017-08-01 01:17:00</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

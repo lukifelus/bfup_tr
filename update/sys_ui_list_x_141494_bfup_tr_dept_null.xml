@@ -44,7 +44,6 @@
             <sys_class_name>sys_ui_list</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-07-26 05:43:17</sys_created_on>
-            <sys_customer_update>false</sys_customer_update>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
             <sys_id>8103e63bdb044300fbeaf34ebf9619e1</sys_id>
@@ -52,7 +51,6 @@
             <sys_name>x_141494_bfup_tr_dept</sys_name>
             <sys_package display_value="bfup_tr" source="x_141494_bfup_tr">49cab6310f00030017d906ace1050ef6</sys_package>
             <sys_policy/>
-            <sys_replace_on_upgrade>false</sys_replace_on_upgrade>
             <sys_scope display_value="bfup_tr">49cab6310f00030017d906ace1050ef6</sys_scope>
             <sys_update_name>sys_ui_list_x_141494_bfup_tr_dept_null</sys_update_name>
             <sys_updated_by>admin</sys_updated_by>
